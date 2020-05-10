@@ -4,8 +4,9 @@
  *                           SUBTITLE MANAGER (c) KARAN KANKARIA
  * ====================================================================================
  *
- * @author KARAN KANKARIA (https://linkshrink.online/subtitle-manager/)
- * @link https://linkshrink.online/subtitle-manager/
+ *  Thank you for your cooperation and don't hesitate to contact me if anything :)
+ * @author KARAN KANKARIA (https://subtitle-manager.herokuapp.com/index.php)
+ * @link https://subtitle-manager.herokuapp.com/index.php
  * @package SUBTITLE MANAGER
  */
  ?>
