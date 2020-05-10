@@ -24,9 +24,9 @@ Code 2:
 
 ## Demo
 
-<p><b>Link</b>: <a href='https://subtitle-manager.herokuapp.com/index.php'>https://subtitle-manager.herokuapp.com/index.php</a>
-<p><b>Username:</b> "admin"</p>
-<p><b>password:</b> "admin123"</p>
+<p><b>Link</b>: <a href='https://subtitle-manager.herokuapp.com/index.php' target="_blank">https://subtitle-manager.herokuapp.com/index.php</a>
+<p><b>Username:</b> <p style="color:red">"admin"</p></p>
+<p><b>password:</b> <p style="color:red">"admin123"</p></p>
  
 
 ## Screenshots
@@ -39,4 +39,4 @@ Code 2:
 
 ## Credits:
 
-<p><b>Credits: <a href="https://github.com/KaranJain29">@KaranJain29</a></b></p>
+<p><b>Credits: <a href="https://github.com/KaranJain29" target="_blank">@KaranJain29</a></b></p>
