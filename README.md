@@ -18,6 +18,12 @@ A tool for uploading subtitles and managing them at one place. Having porblem to
 5. Super Simple
 6. Noob Ready
 
+## Demo
+
+<p><b>Link</b>: <a href='https://subtitle-manager.herokuapp.com/index.php' target="_blank">https://subtitle-manager.herokuapp.com/index.php</a>
+<p><b>Username:</b> "admin"</p>
+<p><b>password:</b> "admin123"</p>
+
 ## Installation
 1. Download the zip file.
 2. Upload it in your server root and extract it. 
@@ -38,12 +44,6 @@ Code 2:
 ![](https://i.imgur.com/kpPMQho.png)
 
 6. That's it. You are all ready to use it. Enjoy uploading!
-
-## Demo
-
-<p><b>Link</b>: <a href='https://subtitle-manager.herokuapp.com/index.php' target="_blank">https://subtitle-manager.herokuapp.com/index.php</a>
-<p><b>Username:</b> "admin"</p>
-<p><b>password:</b> "admin123"</p>
 
 ## Screenshots
 
