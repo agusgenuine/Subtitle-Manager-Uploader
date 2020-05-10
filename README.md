@@ -9,29 +9,23 @@ $username = 'admin';
 $password = 'admin123';
 
 4. Change "admin" with your username and "admin123" with your password.
-5. After above step find below code and Remove it: 
+5. After above step find below code from index.php and Remove it: 
 
-## Code 1:
-<!-- Large modal -->
-<div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg">
-<div class="modal-content">
-<div class='form-group'>
-<textarea style="background:#000;color:#fff" class='form-control' id='textArea' readonly='readonly' rows='7'>
-Subtitle Manager & Uploader :
-Login Details:
-user: admin 
-password: admin123
-</textarea>
-</div>
-</div>
-</div>
-</div>
+Code 1:
+![](https://i.imgur.com/NGerUBh.png)
 
-## Code 2:
-<button type="button" class="btn btn-sm btn-success" data-toggle="modal" data-target=".bd-example-modal-lg">Login Detail</button>
+
+Code 2:
+![](https://i.imgur.com/kpPMQho.png)
 
 6. That's it. You are all ready to use it. Enjoy uploading!
+
+## Demo
+
+<p><b>Link</b>: <a href='https://subtitle-manager.herokuapp.com/index.php'>https://subtitle-manager.herokuapp.com/index.php</a>
+<p><b>Username:</b> "admin"</p>
+<p><b>password:</b> "admin123"</p>
+ 
 
 ## Screenshots
 
