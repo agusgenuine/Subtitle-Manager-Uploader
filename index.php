@@ -91,12 +91,11 @@ function display_login_form()
     <div class="modal-content">
    <div class='form-group'>
 <textarea style="background:#000;color:#fff" class='form-control' id='textArea' readonly='readonly' rows='7'>
-Login Demo cPanel Ancok Openload jwPlayer :
+Subtitle Manager & Uploader :
+Login Details:
 user: admin 
 password: admin123
-
-Happy Watching!    
-	     	</textarea>
+</textarea>
 </div>
     </div>
   </div>
