@@ -25,8 +25,8 @@ Code 2:
 ## Demo
 
 <p><b>Link</b>: <a href='https://subtitle-manager.herokuapp.com/index.php' target="_blank">https://subtitle-manager.herokuapp.com/index.php</a>
-<p><b>Username:</b> <p style="color:red">"admin"</p></p>
-<p><b>password:</b> <p style="color:red">"admin123"</p></p>
+<p><b>Username:</b> "admin"</p>
+<p><b>password:</b> "admin123"</p?
  
 
 ## Screenshots
