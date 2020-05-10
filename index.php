@@ -192,7 +192,7 @@ function logged_in_msg($username)
         </li>
         <br>
       <div class="info-list">
-          <p>If any error occurs or you have any query then contact us through email: <b><a href="mailto:2105karankankaria@gmail.com">Send email</a></b></p>
+          <p>If any error occurs or you have any query then contact us through following link: <b><a href="https://github.com/KaranJain29/Subtitle-Manage-Uploader/">Contact Us</a></b></p>
       </div>
           <li class="br-menu-item">
           <a href="#" class="br-menu-link active">
