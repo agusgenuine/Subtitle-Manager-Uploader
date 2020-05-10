@@ -1,4 +1,5 @@
 # Subtitle-Manager and Uploader
+A tool for uploading subtitles and managing them at one place.
 
 ## Description
 A tool for uploading subtitles and managing them at one place. Having porblem to fing site to host your subtitles for movie or serie. Not to worry now. This script will allow you to host all subtitles at one place. Just download subtitle you want, go the subtitle manager & uploader, upload your .srt file. It will give .srt link. Place it in your video player. Tada! 
