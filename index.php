@@ -316,12 +316,12 @@ function logged_in_msg($username)
                     </div><!-- /.panel-primary -->  
       <footer class="br-footer">
         <div class="footer-left">
-          <div class="tx-center">Copyright &copy; 2020. Karan Kankaria. All Rights Reserved.</div>
+          <div class="tx-center">Copyright &copy; 2020. <a href="https://github.com/KaranJain29/">Karan Kankaria.</a> All Rights Reserved.</div>
         </div>
         <div class="footer-right d-flex align-items-center">
           <span class="tx-uppercase mg-r-10">Socials:</span>
-          <a target="_blank" class="pd-x-5" href="https://www.facebook.com/"><i class="fab fa-facebook tx-20"></i></a>
-          <a target="_blank" class="pd-x-5" href="https://twitter.com/"><i class="fab fa-twitter tx-20"></i></a>
+          <a target="_blank" class="pd-x-5" href="https://github.com/KaranJain29/"><i class="fab fa-facebook tx-20"></i></a>
+          <a target="_blank" class="pd-x-5" href="https://github.com/KaranJain29/"><i class="fab fa-twitter tx-20"></i></a>
         </div>
       </footer>
    </div><!-- /.page body -->	
