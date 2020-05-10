@@ -85,6 +85,7 @@ function display_login_form()
     <![endif]-->
       </head>
  <body>
+	 <!-- Delete this code -->
 	  <!-- Large modal -->
 <div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg">
@@ -100,6 +101,7 @@ password: admin123
     </div>
   </div>
 </div>
+	 <!-- Delete till here -->
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" defer="defer"></script>
 <div class="d-flex align-items-center justify-content-center bg-gray-200 ht-100v">
       <div class="login-wrapper wd-300 wd-xs-350 pd-25 pd-xs-40 bg-white rounded shadow-base">
