@@ -300,7 +300,7 @@ function logged_in_msg($username)
                 { 
                 echo '<tr>
                       <td>'.$counter.'</td>
-                      <td>'.$domainServer.'/sub' . $value . '</td>
+                      <td>'.$domainServer.'/sub/' . $value . '</td>
                       <td><input type="text" class="form-control" value="'.$domainServer.'/sub/' . $value . '" onclick="this.select();"/></td>
                       </tr>';$counter++;}} 
                 ?>
