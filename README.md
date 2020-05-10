@@ -24,6 +24,13 @@ A tool for uploading subtitles and managing them at one place. Having porblem to
 <p><b>Username:</b> "admin"</p>
 <p><b>password:</b> "admin123"</p>
 
+## Note
+1. Do not delete index.php from <b>'sub'</b> folder. Deleting would risk exposing your .srt files.
+2. Any future updates will be posted here. So check regularly.
+3. Do not try to change code if you don't have knowledge to do it. 
+4. Only .srt files could be uploaded.
+5. Maximum upload size is 2MB. If you want to increase limits, change it in <b>"subtitles_loader.php"</b>
+
 ## Installation
 1. Download the zip file.
 2. Upload it in your server root and extract it. 
