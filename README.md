@@ -1,4 +1,4 @@
-# Subtitle-Manage-Uploader
+# Subtitle-Manager and Uploader
 A tool for uploading subtitles and managing them at one place
 
 ## Installation
