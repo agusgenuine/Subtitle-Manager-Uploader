@@ -12,10 +12,12 @@ $password = 'admin123';
 5. After above step find below code from index.php and Remove it: 
 
 Code 1:
+
 ![](https://i.imgur.com/NGerUBh.png)
 
 
 Code 2:
+
 ![](https://i.imgur.com/kpPMQho.png)
 
 6. That's it. You are all ready to use it. Enjoy uploading!
