@@ -216,7 +216,7 @@ function logged_in_msg($username)
           <div class="dropdown">
             <a href="" class="nav-link nav-link-profile" data-toggle="dropdown">
               <span class="logged-name hidden-md-down"><?php echo '<p>Welcome: <b>' . $username . '</b></p>';?></span>
-              <img src="https://cdn.statically.io/img/raw.githubusercontent.com/KaranJain29/sub-man/master/user.png" class="wd-32 rounded-circle" alt="">
+              <img src="https://cdn.statically.io/img/raw.githubusercontent.com/KaranJain29/Subtitle-Manager-Uploader/master/assets/user.png?f=auto" class="wd-32 rounded-circle" alt="">
               <span class="square-10 bg-success"></span>
             </a>
             <div class="dropdown-menu dropdown-menu-header wd-250">          
