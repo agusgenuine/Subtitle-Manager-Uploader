@@ -126,7 +126,7 @@ function logged_in_msg($username)
  * @package SUBTITLE MANAGER
  */
 			$domainServer = (isset($_SERVER['HTTPS']) ? "https" : "https") . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]"; 
-			$domainServer = str_replace('index.php', '/', $domainServer);
+			$domainServer = str_replace('index.php', '', '$domainServer');
 		?>
 <!DOCTYPE html>
 <html lang="en">
