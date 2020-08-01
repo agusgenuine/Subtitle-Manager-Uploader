@@ -28,8 +28,8 @@
       } 
       else {
 		$domainServer = (isset($_SERVER['HTTPS']) ? "https" : "https") . "://" . $_SERVER['SERVER_NAME'] . dirname($_SERVER['PHP_SELF']);		
-        move_uploaded_file($_FILES["file"]["tmp_name"], 'sub/' . time() . '.' . $fileName);
-        $imagePath = $domainServer . 'sub/' . time() . '.' . $fileName;
+        move_uploaded_file($_FILES["file"]["tmp_name"], 'sub/' . $fileName);
+        $imagePath = $domainServer . 'sub/' . $fileName;
         $fileStatus['status'] = 1;
         $fileStatus['message'] = 'Successfully uploaded !';
         $fileStatus['result'] = '<input type="text" class="form-control" value="'.$imagePath.'" onclick="this.select();"/>';
