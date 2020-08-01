@@ -5,7 +5,7 @@
  * ====================================================================================
  *
  *  Thank you for your cooperation and don't hesitate to contact me if anything :)
- * @author KARAN KANKARIA (https://subtitle-manager.herokuapp.com/index.php)
+ * @author KARAN KANKARIA (https://subtitle-manager.herokuapp.com/)
  * @link https://subtitle-manager.herokuapp.com/index.php
  * @package SUBTITLE MANAGER
  */
@@ -306,8 +306,8 @@ function logged_in_msg($username)
                 { 
                 echo '<tr>
                       <td>'.$counter.'</td>
-                      <td>'.$domainServer.'/sub/' . $value . '</td>
-                      <td><input type="text" class="form-control" value="'.$domainServer.'/sub/' . $value . '" onclick="this.select();"/></td>
+                      <td>'.$domainServer.'sub/' . $value . '</td>
+                      <td><input type="text" class="form-control" value="'.$domainServer.'sub/' . $value . '" onclick="this.select();"/></td>
                       </tr>';$counter++;}} 
                 ?>
                 </tbody>
