@@ -6,7 +6,7 @@
  *
  *  Thank you for your cooperation and don't hesitate to contact me if anything :)
  * @author KARAN KANKARIA (https://subtitle-manager.herokuapp.com/)
- * @link https://subtitle-manager.herokuapp.com/index.php
+ * @link https://subtitle-manager.herokuapp.com/
  * @package SUBTITLE MANAGER
  */
 session_start();
@@ -121,11 +121,11 @@ function logged_in_msg($username)
  * ====================================================================================
  *
  *  Thank you for your cooperation and don't hesitate to contact me if anything :)
- * @author KARAN KANKARIA (https://subtitle-manager.herokuapp.com/index.php)
- * @link https://subtitle-manager.herokuapp.com/index.php
+ * @author KARAN KANKARIA (https://subtitle-manager.herokuapp.com/)
+ * @link https://subtitle-manager.herokuapp.com/
  * @package SUBTITLE MANAGER
  */
-			$domainServer = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]"; 
+			$domainServer = (isset($_SERVER['HTTPS']) ? "https" : "https") . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]"; 
 			$domainServer = str_replace('index.php', '', $domainServer);
 		?>
 <!DOCTYPE html>
@@ -296,7 +296,7 @@ function logged_in_msg($username)
               </thead>
               <tbody>
                <?php 								
-				$domainServer = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://" . $_SERVER['SERVER_NAME'] . dirname($_SERVER['PHP_SELF']);								
+				$domainServer = (isset($_SERVER['HTTPS']) ? "https" : "https") . "://" . $_SERVER['SERVER_NAME'] . dirname($_SERVER['PHP_SELF']);								
                 $dir = 'sub';
                 $counter = 1;
                 $file = scandir($dir, 1);
