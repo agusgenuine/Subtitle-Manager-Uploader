@@ -62,4 +62,4 @@ Code 2:
 
 ## Credits:
 
-<p><b>Credits: <a href="https://github.com/karankankaria" target="_blank">@KaranJain29</a></b></p>
+<p><b>Credits: <a href="https://github.com/karankankaria" target="_blank">@karankankaria</a></b></p>
