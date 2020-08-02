@@ -20,7 +20,7 @@ A tool for uploading subtitles and managing them at one place. Having porblem to
 
 ## Demo
 
-<p><b>Link</b>: <a href='https://subtitle-manager.herokuapp.com/index.php' target="_blank">https://subtitle-manager.herokuapp.com/index.php</a>
+<p><b>Link</b>: <a href='https://subtitle-manager.herokuapp.com/' target="_blank">https://subtitle-manager.herokuapp.com/</a>
 <p><b>Username:</b> "admin"</p>
 <p><b>password:</b> "admin123"</p>
 
