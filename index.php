@@ -260,7 +260,7 @@ function logged_in_msg($username)
         <i class="icon icon ion-ios-cloud-upload-outline"></i>
         <div class="pd-sm-l-20">
           <h4 class="tx-gray-800 mg-b-5">Subtitle Manager</h4>
-          <p class="mg-b-0">And Uploader. <b>Created By: <a href="https://github.com/karankankaria" target="_blank">@KaranJain29</a></b></p>
+          <p class="mg-b-0">And Uploader. <b>Created By: <a href="https://github.com/karankankaria" target="_blank">@karankankaria</a></b></p>
         </div>
       </div><!-- d-flex -->      
 	  <div class="br-pagebody">	  
