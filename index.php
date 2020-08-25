@@ -192,7 +192,7 @@ function logged_in_msg($username)
         </li>
         <br>
       <div class="info-list">
-          <p>If any error occurs or you have any query then contact us through following link: <b><a href="https://github.com/KaranJain29/Subtitle-Manage-Uploader/">Contact Us</a></b></p>
+          <p>If any error occurs or you have any query then contact us through following link: <b><a href="https://github.com/karankankaria/Subtitle-Manage-Uploader/">Contact Us</a></b></p>
       </div>
           <li class="br-menu-item">
           <a href="#" class="br-menu-link active">
@@ -216,7 +216,7 @@ function logged_in_msg($username)
           <div class="dropdown">
             <a href="" class="nav-link nav-link-profile" data-toggle="dropdown">
               <span class="logged-name hidden-md-down"><?php echo '<p>Welcome: <b>' . $username . '</b></p>';?></span>
-              <img src="https://cdn.statically.io/img/raw.githubusercontent.com/KaranJain29/Subtitle-Manager-Uploader/master/assets/user.png?f=auto" class="wd-32 rounded-circle" alt="">
+              <img src="https://cdn.statically.io/img/raw.githubusercontent.com/karankankaria/Subtitle-Manager-Uploader/master/assets/user.png?f=auto" class="wd-32 rounded-circle" alt="">
               <span class="square-10 bg-success"></span>
             </a>
             <div class="dropdown-menu dropdown-menu-header wd-250">          
@@ -260,7 +260,7 @@ function logged_in_msg($username)
         <i class="icon icon ion-ios-cloud-upload-outline"></i>
         <div class="pd-sm-l-20">
           <h4 class="tx-gray-800 mg-b-5">Subtitle Manager</h4>
-          <p class="mg-b-0">And Uploader. <b>Created By: <a href="https://github.com/KaranJain29" target="_blank">@KaranJain29</a></b></p>
+          <p class="mg-b-0">And Uploader. <b>Created By: <a href="https://github.com/karankankaria" target="_blank">@KaranJain29</a></b></p>
         </div>
       </div><!-- d-flex -->      
 	  <div class="br-pagebody">	  
@@ -316,12 +316,12 @@ function logged_in_msg($username)
                     </div><!-- /.panel-primary -->  
       <footer class="br-footer">
         <div class="footer-left">
-          <div class="tx-center">Copyright &copy; 2020. <a href="https://github.com/KaranJain29/">Karan Kankaria.</a> All Rights Reserved.</div>
+          <div class="tx-center">Copyright &copy; 2020. <a href="https://github.com/karankankaria/">Karan Kankaria.</a> All Rights Reserved.</div>
         </div>
         <div class="footer-right d-flex align-items-center">
           <span class="tx-uppercase mg-r-10">Socials:</span>
-          <a target="_blank" class="pd-x-5" href="https://github.com/KaranJain29/"><i class="fab fa-facebook tx-20"></i></a>
-          <a target="_blank" class="pd-x-5" href="https://github.com/KaranJain29/"><i class="fab fa-twitter tx-20"></i></a>
+          <a target="_blank" class="pd-x-5" href="https://github.com/karankankaria/"><i class="fab fa-facebook tx-20"></i></a>
+          <a target="_blank" class="pd-x-5" href="https://github.com/karankankaria/"><i class="fab fa-twitter tx-20"></i></a>
         </div>
       </footer>
    </div><!-- /.page body -->	
